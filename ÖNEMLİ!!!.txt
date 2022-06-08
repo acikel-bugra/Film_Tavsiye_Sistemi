@@ -1,0 +1,6 @@
+Proje dosyalarını çalıştırırken:
+
+MOVIE-SCRAPPING dosyası ilk önce çalıştırılmalıdır.
+icon dosyası içindeki icon çekilen verilerin olduğu dosyaya eklenmelidir.
+Daha sonra INTERFACE dosyası çalıştırılabilir.
+
